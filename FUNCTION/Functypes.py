@@ -1,9 +1,3 @@
-'''
-functions with parameter and return type
-parameter without return
-no parameter with return
-no parameter without return
-'''
 
 #list
 # index always starts with 0,1,2,3,......
