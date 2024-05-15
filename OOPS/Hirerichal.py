@@ -25,6 +25,6 @@ r=Reliance([100,200,300,400,500,600,800,1000])
 
 j.search()
 
-r.getByPosition(0,4)
+r.getByPosition(0,5)
 r.show()
 j.show()
